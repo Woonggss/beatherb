@@ -1,7 +1,7 @@
 # BeatHerb
 ### SSAFY 10기 공통 프로젝트 서울 5반 :musical_score: 'Bit는 알아도 Beat는 모른다' :musical_score: <br /> (2024.01.08 ~ 2024.02.16)
 
-![beatherb](/uploads/5e6cf29a813b761fe830cc749e19996f/beatherb.PNG)
+![beatherb.PNG](..%2Fbeatherb_imgFiles%2Fbeatherb.PNG)
 
 ## :green_book: 목차 :green_book:
 :one: [프로젝트 소개](#1-프로젝트-소개) <br/>
@@ -48,9 +48,9 @@
 
 ## 3. 서비스 화면
 #### 홈 화면 & 로그인 화면
-|![home](/uploads/3ffe1ab56bea7b2e8c3343866e8a4308/home.gif){width=500px height=250px}|![login](/uploads/cf2df092ca02d3850cbe0dd1c968f9e0/login.gif){width=500px height=250px}|
-|:---:|:---:|
-|**홈 화면**|**로그인 화면**|
+| ![home.gif](..%2Fbeatherb_imgFiles%2Fhome.gif){width=500px height=250px} | ![login.gif](..%2Fbeatherb_imgFiles%2Flogin.gif){width=500px height=250px} |
+|:--------------------------------------------------------------------------:|:------------------------------------------------:|
+|                                  **홈 화면**                                  |                    **로그인 화면**                    |
 
 #### 작업실 화면 (소리 쌓기 화면)
 |![work1](/uploads/eb0b428c06b054b69a7b5222e76514a1/work1.gif){width=500px height=250px}|![work2](/uploads/6016423a0dc2af6369357c7acbab6b59/work2.gif){width=500px height=250px}|
@@ -74,11 +74,11 @@
 ## 4. 주요 기능
 #### 1. 소리 쌓기 서비스 :sound:
 ##### 기존에 등록되어 있는 음반 정보를 가져와서 그 음반 위에 소리를 쌓을 수 있습니다.<br/><br/> ex)<br/>1-1). 피아노 연주가 나오는 멜로디 정보를 가져와서 보컬 소리를 쌓을 수 있음.<br/>1-2). 원하는 보컬 정보를 가져온 후 piano, synth, drum과 같은 가상악기를 통해 소리를 녹음하여 쌓을 수 있음.
-![소리쌓기서비스](/uploads/26068053b2240e8174cb0f394978950c/drum.mp4)
+![drum.mp4](..%2Fbeatherb_imgFiles%2Fdrum.mp4)
 
 #### 2. 라이브를 활용해 커뮤니티로 확장 :tv:
 ##### 라이브에서 공유하는 컨텐츠에 관심 있는 사람은 누구나 들어와서 라이브 방송에 참여 할 수 있습니다.
-![라이브](/uploads/42041a4f195ef27a198c8e708d1d56c0/live.mp4)
+![live.mp4](..%2Fbeatherb_imgFiles%2Flive.mp4)
 
 #### 3. 해시태그를 이용한 상세 검색 :computer:
 ##### 피아노, 드럼, MR 등과 같은 해시태그를 기반으로 정확한 검색 결과를 얻을 수 있습니다.
@@ -148,10 +148,10 @@
 </details>
 
 #### ERD
-![BeatHerb_erd](/uploads/21ec4252bfff6dd37f71c99fedc1b652/BeatHerb_erd.png)
+![BeatHerb_erd.png](..%2Fbeatherb_imgFiles%2FBeatHerb_erd.png)
 
 #### Architecture Structure
-![architecture](/uploads/6f872805ac621c38eaf72d66f7b0b5ec/image.png)
+![image.png](..%2Fbeatherb_imgFiles%2Fimage.png)
 
 ## 7. 팀원 소개
 |팀장(김도현)|팀원(김범수)|팀원(최지희)|팀원(박도연)|팀원(박세웅)|팀원(유시연)|
