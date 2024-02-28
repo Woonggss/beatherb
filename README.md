@@ -1,7 +1,7 @@
 # BeatHerb
 ### SSAFY 10기 공통 프로젝트 서울 5반 :musical_score: 'Bit는 알아도 Beat는 모른다' :musical_score: <br /> (2024.01.08 ~ 2024.02.16)
 
-![beatherb](https://github.com/Woonggss/beatherb/assets/88834958/1e5a785a-e630-4608-93f2-49a6e921d874){width=500px height=250px}
+![beatherb](https://github.com/Woonggss/beatherb/assets/88834958/1e5a785a-e630-4608-93f2-49a6e921d874)
 
 ## :green_book: 목차 :green_book:
 :one: [프로젝트 소개](#1-프로젝트-소개) <br/>
@@ -48,7 +48,7 @@
 
 ## 3. 서비스 화면
 #### 홈 화면 & 로그인 화면
-| ![home.gif](..%2Fbeatherb_imgFiles%2Fhome.gif){width=500px height=250px} | ![login.gif](..%2Fbeatherb_imgFiles%2Flogin.gif){width=500px height=250px} |
+| ![home](https://github.com/Woonggss/beatherb/assets/88834958/f4945f8e-b010-418f-8ca2-41c3d3462cbf){width=500px height=250px} | ![login.gif](..%2Fbeatherb_imgFiles%2Flogin.gif){width=500px height=250px} |
 |:--------------------------------------------------------------------------:|:------------------------------------------------:|
 |                                  **홈 화면**                                  |                    **로그인 화면**                    |
 
