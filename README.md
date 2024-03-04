@@ -53,21 +53,21 @@
 |                                  **홈 화면**                                  |                    **로그인 화면**                    |
 
 #### 작업실 화면 (소리 쌓기 화면)
-|<img src="https://github.com/Woonggss/beatherb/assets/88834958/2baeb1f4-7ec1-4934-b0bf-1fe619eca295" width="500" height="250"/>|
+|<img src="https://github.com/Woonggss/beatherb/assets/88834958/2baeb1f4-7ec1-4934-b0bf-1fe619eca295" width="500" height="250"/>|<img src="https://github.com/Woonggss/beatherb/assets/88834958/05f23852-6114-4cb9-adb6-798283949e1b" width="500" height="250"/>|
 |:---:|:---:|
 |**내 컴퓨터에서 음원 파일 가져오고 BeatHerb에서 <br />마음에 드는 소리를 쌓은 후 업로드하는 화면**|**BeatHerb에서 마음에 드는 소리를 가져오고 <br />가상 악기로 만든 소리를 쌓은 후 업로드하는 화면**|
 #### 컨텐트 상세 검색 화면
-|<img src="https://github.com/Woonggss/beatherb/assets/88834958/05f23852-6114-4cb9-adb6-798283949e1b" width="500" height="250"/>|
+|<img src="https://github.com/Woonggss/beatherb/assets/88834958/20890c6a-adb6-4121-b153-26ee63f7770d" width="500" height="250"/>|
 |:---:|
 |**컨텐트 상세 검색 화면**|
 
 #### 게시판 화면
-|![content](/uploads/d3a75cf9a72319b12029e1591b2506d1/content.gif){width=500px height=250px}|![live](/uploads/915b35e7e3ecf7fc081ba2a2d5e5027e/live.gif){width=500px height=250px}
+|<img src="https://github.com/Woonggss/beatherb/assets/88834958/aa9f81b5-e3a8-4dbe-9c8c-eff6ba258862" width="500" height="250"/>|<img src="https://github.com/Woonggss/beatherb/assets/88834958/0007f658-4781-43c5-ba5c-512b2cb98410" width="500" height="250"/>|
 |:---:|:---:|
 |**전체 컨텐트 게시판 화면**|**라이브 게시판 화면**|
 
 #### 라이브 화면
-|![livecat](/uploads/e8bcf51e339fd01eecb172b5c9441f59/livecat.gif){width=500px height=250px}|
+|<img src="https://github.com/Woonggss/beatherb/assets/88834958/97cd5245-58f7-4192-9237-f77aa41b8337" width="500" height="250"/>|
 |:---:|
 |**라이브 화면**|
 
