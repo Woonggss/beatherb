@@ -94,57 +94,57 @@
 #### API
 <details>
 <summary>Member</summary>
-![member-controller](/uploads/86e6f8888f3eac80ad12acf659a6f1da/member-controller.PNG)
-![member-info-controller](/uploads/026d9e72b03460ba22c0b2fc06469c69/member-info-controller.PNG)
+![member-controller](https://github.com/Woonggss/beatherb/assets/88834958/5b963bae-1656-4a6a-a91a-0fbbbb20b68c)
+![member-info-controller](https://github.com/Woonggss/beatherb/assets/88834958/64600087-fb4c-4518-8182-e2679f5715fe)
 </details>
 
 <details>
 <summary>Auth</summary>
-![auth-controller](/uploads/42268e797cbc6c283b823d3d603cbae0/auth-controller.PNG)
+![auth-controller](https://github.com/Woonggss/beatherb/assets/88834958/6e0b389b-e51e-4516-8f8e-fe4fb42385b9)
 </details>
 
 <details>
 <summary>HashTag</summary>
-![hash-tag-controller](/uploads/e0240fb282ab5d936eff92c94743766f/hash-tag-controller.PNG)
+![hash-tag-controller](https://github.com/Woonggss/beatherb/assets/88834958/c31c48a6-ffaf-43d2-a899-ce3baaef6c1b)
 </details>
 
 <details>
 <summary>Live</summary>
-![live-controller](/uploads/ff3abc8893837f545349fa3cfdb2bc8b/live-controller.PNG)
+![live-controller](https://github.com/Woonggss/beatherb/assets/88834958/bcfd79e5-d075-4ee6-b21c-169b4b0af498)
 </details>
 
 <details>
 <summary>Content</summary>
-![content-controller](/uploads/6d540e30751dde097ae2cc04b85d994a/content-controller.PNG)
-![content-load-controller](/uploads/8c5c7836b0c711ece760ab49374d3555/content-load-controller.PNG)
-![content-detail-controller](/uploads/f468c84a4fb8da9c07cb2f666066113f/content-detail-controller.PNG)
-![content-search-controller](/uploads/808b950a4edca9ea9f56f31d164d669d/content-search-controller.PNG)
+![content-controller](https://github.com/Woonggss/beatherb/assets/88834958/f50f466c-6247-4110-9b13-3d993e7cea3e)
+![content-load-controller](https://github.com/Woonggss/beatherb/assets/88834958/f5f06ab2-9c5e-4c15-8d74-8092c56db403)
+![content-detail-controller](https://github.com/Woonggss/beatherb/assets/88834958/43dd949f-2882-4830-81e2-0c40f730a7db)
+![content-search-controller](https://github.com/Woonggss/beatherb/assets/88834958/53bf09a3-fb3c-42e1-900c-3cf70611dfe4)
 </details>
 
 <details>
 <summary>Follow</summary>
-![follwer-controller](/uploads/5ce9a9ec610a347d1176252644928545/follwer-controller.PNG)
-![following-controller](/uploads/7fb20754acfb80ac812a9f9bf6368502/following-controller.PNG)
+![follwer-controller](https://github.com/Woonggss/beatherb/assets/88834958/c65d4bb2-a949-4c0e-be1d-a944fbef2773)
+![following-controller](https://github.com/Woonggss/beatherb/assets/88834958/d48b9c9d-9609-4244-a0c6-09ee0409bda7)
 </details>
 
 <details>
 <summary>DirectMessage</summary>
-![direct-message-controller](/uploads/2730867f590f29ceb3f3c7ddbbab970e/direct-message-controller.PNG)
+![direct-message-controller](https://github.com/Woonggss/beatherb/assets/88834958/1a4b1ebc-2fcc-4363-b2dc-c9f116ef59c0)
 </details>
 
 <details>
 <summary>Interest</summary>
-![interest-controller](/uploads/a84fb3ecd8aae38831f0b7df35792f41/interest-controller.PNG)
+![interest-controller](https://github.com/Woonggss/beatherb/assets/88834958/02e1d8ba-e6ee-48b1-97bc-e05f60723397)
 </details>
 
 <details>
 <summary>Star</summary>
-![star-controller](/uploads/1adc9a1ec22d8c2692cabedbd4d110a1/star-controller.PNG)
+![star-controller](https://github.com/Woonggss/beatherb/assets/88834958/4da22aaf-ac4e-4bc3-b605-fcef7a46f1fb)
 </details>
 
 <details>
 <summary>Comment</summary>
-![comment-controller](/uploads/302ac002cb85debddd38b7072f5221f5/comment-controller.PNG)
+![comment-controller](https://github.com/Woonggss/beatherb/assets/88834958/788187e0-5080-42fe-827e-01a6217690b1)
 </details>
 
 #### ERD
