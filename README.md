@@ -48,16 +48,16 @@
 
 ## 3. 서비스 화면
 #### 홈 화면 & 로그인 화면
-| <img src="https://github.com/Woonggss/beatherb/assets/88834958/f4945f8e-b010-418f-8ca2-41c3d3462cbf" width="500" height="250"/> | ![login.gif](..%2Fbeatherb_imgFiles%2Flogin.gif){width=500px height=250px} |
+| <img src="https://github.com/Woonggss/beatherb/assets/88834958/f4945f8e-b010-418f-8ca2-41c3d3462cbf" width="500" height="250"/> | <img src="https://github.com/Woonggss/beatherb/assets/88834958/db4d6a8a-7c39-49ad-85b4-97dcf8497468" width="500" height="250"/> |
 |:--------------------------------------------------------------------------:|:------------------------------------------------:|
 |                                  **홈 화면**                                  |                    **로그인 화면**                    |
 
 #### 작업실 화면 (소리 쌓기 화면)
-|![work1](/uploads/eb0b428c06b054b69a7b5222e76514a1/work1.gif){width=500px height=250px}|![work2](/uploads/6016423a0dc2af6369357c7acbab6b59/work2.gif){width=500px height=250px}|
+|<img src="https://github.com/Woonggss/beatherb/assets/88834958/2baeb1f4-7ec1-4934-b0bf-1fe619eca295" width="500" height="250"/>|
 |:---:|:---:|
 |**내 컴퓨터에서 음원 파일 가져오고 BeatHerb에서 <br />마음에 드는 소리를 쌓은 후 업로드하는 화면**|**BeatHerb에서 마음에 드는 소리를 가져오고 <br />가상 악기로 만든 소리를 쌓은 후 업로드하는 화면**|
 #### 컨텐트 상세 검색 화면
-|![detail_search](/uploads/39521cd33e4cd625e61058e9a23921d9/detail_search.gif){width=500px height=250px}|
+|<img src="https://github.com/Woonggss/beatherb/assets/88834958/05f23852-6114-4cb9-adb6-798283949e1b" width="500" height="250"/>|
 |:---:|
 |**컨텐트 상세 검색 화면**|
 
@@ -148,10 +148,10 @@
 </details>
 
 #### ERD
-![BeatHerb_erd.png](..%2Fbeatherb_imgFiles%2FBeatHerb_erd.png)
+![BeatHerb_erd](https://github.com/Woonggss/beatherb/assets/88834958/f80710a9-52dd-4c75-b256-bbd68d8860ed)
 
 #### Architecture Structure
-![image.png](..%2Fbeatherb_imgFiles%2Fimage.png)
+![image](https://github.com/Woonggss/beatherb/assets/88834958/85ca1357-a8ba-4182-afd9-d47f613dc5cd)
 
 ## 7. 팀원 소개
 |팀장(김도현)|팀원(김범수)|팀원(최지희)|팀원(박도연)|팀원(박세웅)|팀원(유시연)|
