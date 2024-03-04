@@ -74,15 +74,15 @@
 ## 4. 주요 기능
 #### 1. 소리 쌓기 서비스 :sound:
 ##### 기존에 등록되어 있는 음반 정보를 가져와서 그 음반 위에 소리를 쌓을 수 있습니다.<br/><br/> ex)<br/>1-1). 피아노 연주가 나오는 멜로디 정보를 가져와서 보컬 소리를 쌓을 수 있음.<br/>1-2). 원하는 보컬 정보를 가져온 후 piano, synth, drum과 같은 가상악기를 통해 소리를 녹음하여 쌓을 수 있음.
-![drum.mp4](https://github.com/Woonggss/beatherb/assets/88834958/677269a7-6c96-4bff-9a8c-fb7244f055f4)
+
 
 #### 2. 라이브를 활용해 커뮤니티로 확장 :tv:
 ##### 라이브에서 공유하는 컨텐츠에 관심 있는 사람은 누구나 들어와서 라이브 방송에 참여 할 수 있습니다.
-![live.mp4](..%2Fbeatherb_imgFiles%2Flive.mp4)
+
 
 #### 3. 해시태그를 이용한 상세 검색 :computer:
 ##### 피아노, 드럼, MR 등과 같은 해시태그를 기반으로 정확한 검색 결과를 얻을 수 있습니다.
-![해시태그를 이용한 상세검색](https://github.com/Woonggss/beatherb/assets/88834958/9c930dcc-ff52-4cbb-8659-288f68d7cb39)
+
 
 ## 5. 프로젝트 특징 기술 소개
 #### 1. kafka 도입을 활용한 멀티 프로세싱 음악 처리 후 사용자는 업로드가 되었다는 신호를 보다 빠르게 제공 받을 수 있습니다.<br/> :arrow_forward: (약 10초 이상 -> 약 3초)
@@ -93,58 +93,88 @@
 ## 6. 설계 문서
 #### API
 <details>
-<summary>Member</summary>
-![member-controller](https://github.com/Woonggss/beatherb/assets/88834958/5b963bae-1656-4a6a-a91a-0fbbbb20b68c)
-![member-info-controller](https://github.com/Woonggss/beatherb/assets/88834958/64600087-fb4c-4518-8182-e2679f5715fe)
+
+  <summary>Member</summary>
+  
+  ![member-controller](https://github.com/Woonggss/beatherb/assets/88834958/5b963bae-1656-4a6a-a91a-0fbbbb20b68c)
+  ![member-info-controller](https://github.com/Woonggss/beatherb/assets/88834958/64600087-fb4c-4518-8182-e2679f5715fe)
+
 </details>
 
 <details>
-<summary>Auth</summary>
-![auth-controller](https://github.com/Woonggss/beatherb/assets/88834958/6e0b389b-e51e-4516-8f8e-fe4fb42385b9)
+
+  <summary>Auth</summary>
+  
+  ![auth-controller](https://github.com/Woonggss/beatherb/assets/88834958/6e0b389b-e51e-4516-8f8e-fe4fb42385b9)
+
 </details>
 
 <details>
-<summary>HashTag</summary>
-![hash-tag-controller](https://github.com/Woonggss/beatherb/assets/88834958/c31c48a6-ffaf-43d2-a899-ce3baaef6c1b)
+
+  <summary>HashTag</summary>
+
+  ![hash-tag-controller](https://github.com/Woonggss/beatherb/assets/88834958/c31c48a6-ffaf-43d2-a899-ce3baaef6c1b)
+
 </details>
 
 <details>
-<summary>Live</summary>
-![live-controller](https://github.com/Woonggss/beatherb/assets/88834958/bcfd79e5-d075-4ee6-b21c-169b4b0af498)
+
+  <summary>Live</summary>
+
+  ![live-controller](https://github.com/Woonggss/beatherb/assets/88834958/bcfd79e5-d075-4ee6-b21c-169b4b0af498)
+
 </details>
 
 <details>
-<summary>Content</summary>
-![content-controller](https://github.com/Woonggss/beatherb/assets/88834958/f50f466c-6247-4110-9b13-3d993e7cea3e)
-![content-load-controller](https://github.com/Woonggss/beatherb/assets/88834958/f5f06ab2-9c5e-4c15-8d74-8092c56db403)
-![content-detail-controller](https://github.com/Woonggss/beatherb/assets/88834958/43dd949f-2882-4830-81e2-0c40f730a7db)
-![content-search-controller](https://github.com/Woonggss/beatherb/assets/88834958/53bf09a3-fb3c-42e1-900c-3cf70611dfe4)
+
+  <summary>Content</summary>
+
+  ![content-controller](https://github.com/Woonggss/beatherb/assets/88834958/f50f466c-6247-4110-9b13-3d993e7cea3e)
+  ![content-load-controller](https://github.com/Woonggss/beatherb/assets/88834958/f5f06ab2-9c5e-4c15-8d74-8092c56db403)
+  ![content-detail-controller](https://github.com/Woonggss/beatherb/assets/88834958/43dd949f-2882-4830-81e2-0c40f730a7db)
+  ![content-search-controller](https://github.com/Woonggss/beatherb/assets/88834958/53bf09a3-fb3c-42e1-900c-3cf70611dfe4)
+
 </details>
 
 <details>
-<summary>Follow</summary>
-![follwer-controller](https://github.com/Woonggss/beatherb/assets/88834958/c65d4bb2-a949-4c0e-be1d-a944fbef2773)
-![following-controller](https://github.com/Woonggss/beatherb/assets/88834958/d48b9c9d-9609-4244-a0c6-09ee0409bda7)
+
+  <summary>Follow</summary>
+  
+  ![follwer-controller](https://github.com/Woonggss/beatherb/assets/88834958/c65d4bb2-a949-4c0e-be1d-a944fbef2773)
+  ![following-controller](https://github.com/Woonggss/beatherb/assets/88834958/d48b9c9d-9609-4244-a0c6-09ee0409bda7)
+
 </details>
 
 <details>
-<summary>DirectMessage</summary>
-![direct-message-controller](https://github.com/Woonggss/beatherb/assets/88834958/1a4b1ebc-2fcc-4363-b2dc-c9f116ef59c0)
+
+  <summary>DirectMessage</summary>
+
+  ![direct-message-controller](https://github.com/Woonggss/beatherb/assets/88834958/1a4b1ebc-2fcc-4363-b2dc-c9f116ef59c0)
+
 </details>
 
 <details>
-<summary>Interest</summary>
-![interest-controller](https://github.com/Woonggss/beatherb/assets/88834958/02e1d8ba-e6ee-48b1-97bc-e05f60723397)
+
+  <summary>Interest</summary>
+  
+  ![interest-controller](https://github.com/Woonggss/beatherb/assets/88834958/02e1d8ba-e6ee-48b1-97bc-e05f60723397)
+
 </details>
 
 <details>
-<summary>Star</summary>
-![star-controller](https://github.com/Woonggss/beatherb/assets/88834958/4da22aaf-ac4e-4bc3-b605-fcef7a46f1fb)
+
+  <summary>Star</summary>
+
+  ![star-controller](https://github.com/Woonggss/beatherb/assets/88834958/4da22aaf-ac4e-4bc3-b605-fcef7a46f1fb)
+
 </details>
 
 <details>
-<summary>Comment</summary>
-![comment-controller](https://github.com/Woonggss/beatherb/assets/88834958/788187e0-5080-42fe-827e-01a6217690b1)
+
+  <summary>Comment</summary>
+
+  ![comment-controller](https://github.com/Woonggss/beatherb/assets/88834958/788187e0-5080-42fe-827e-01a6217690b1)
+
 </details>
 
 #### ERD
